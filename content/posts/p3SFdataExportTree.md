@@ -1,11 +1,11 @@
 +++
-date = '2024-05-24T16:10:13+05:30'
+date = '2024-05-25T16:10:13+05:30'
 title = 'Transfer Records Using SF CLI Command❗❗❗'
 slug='transfer-records-using-cli'
 authors = ['Vivek']
-tags = ['LWR Site','LWC','Custom Labels','Admin']
+tags = ['CLI','Admin','data']
 categories= ['IT','Salesforce']
-weight = 1
+weight = 5
 featuredImage ='/images/generic_header.png'
 featuredImagePreview ='/images/generic_header.png'
 summary="Easiest way to transfer few records and child records between two sandboxes/orgs"

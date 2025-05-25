@@ -14,6 +14,15 @@ theme = "DoIt"
   # DoIt theme version
   version = "0.2.X"
   summaryLength = 10  # number of words (not lines)
+  
+# DoIt NEW | 0.2.0 Analytics config
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-BC8Z61Y2ND"
+      # whether to anonymize IP
+      anonymizeIP = true
 [params.app]
 svgFavicon = "/images/logo_512.png"
 [params.header.title]
