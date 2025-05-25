@@ -1,4 +1,4 @@
-baseURL = "http://vivekvismayam.github.io/"
+baseURL = "https://vivekvismayam.github.io/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -9,12 +9,17 @@ relativeURLs = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [params]
   # DoIt theme version
   version = "0.2.X"
   summaryLength = 10  # number of words (not lines)
-  
+
 # DoIt NEW | 0.2.0 Analytics config
   [params.analytics]
     enable = true
