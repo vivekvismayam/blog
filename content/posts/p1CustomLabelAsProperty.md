@@ -5,7 +5,7 @@ slug='custom-label-as-Property'
 authors = ['Vivek']
 tags = ['LWR Site','LWC','Custom Labels','Admin']
 categories= ['IT','Salesforce']
-weight = 0
+weight = 2
 featuredImage ='https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_header.png'
 featuredImagePreview ='https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_header.png'
 summary="Using Custom Label as a Property in Lightning Page & LWR Site"
@@ -36,7 +36,7 @@ For Eg:
  Here is the custom label i have created in my developer edition org👨‍💻
 
 
-![Image 3](/images/p1_3.jpg)
+![Image 3](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_3.jpg)
 
 
 ***
@@ -44,7 +44,7 @@ For Eg:
 This is how we can reference the Custom Label ```{!𝘓𝘢𝘣𝘦𝘭.c.MyLabel}``` in Lightning App Builder
 
 
-![Image 2](/images/p1_1.jpg)
+![Image 1](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_1.jpg)
 
 
 ***
@@ -53,7 +53,7 @@ This is how we can reference the Custom Label ```{!𝘓𝘢𝘣𝘦𝘭.c.MyLabe
 This is how we can reference the Custom Label ```{!𝘓𝘢𝘣𝘦𝘭.c.MyLabel}``` in LWR Site!
 
 
-![Image 2](/images/p1_2.jpg)
+![Image 2](https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p1_2.jpg)
 
 ***
  
@@ -74,7 +74,7 @@ This is how we can reference the Custom Label ```{!𝘓𝘢𝘣𝘦𝘭.c.MyLabe
 ***
 
 
-You can find the code for LWC components used in [my github repo](https://lnkd.in/gJuqNBg8)
+You can find the code for LWC components used in [my github repo](https://github.com/vivekvismayam/Demo)
 - LWC Component Name : *labelInputComponent*
 
 ***
