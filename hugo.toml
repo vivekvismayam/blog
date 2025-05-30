@@ -158,22 +158,15 @@ svgFavicon = "/images/logo_512.png"
     #  Comment config
     [params.page.comment]
       enable = true
-      #  giscus comment config
-      [params.page.comment.giscus]
-        enable = false
+      # DoIt NEW | 0.2.5 Utterances comment config
+      [params.page.comment.utterances]
+        enable = true
         # owner/repo
-        dataRepo = ""
-        dataRepoId = ""
-        dataCategory = ""
-        dataCategoryId = ""
-        dataMapping = "pathname"
-        dataReactionsEnabled = "1"
-        dataEmitMetadata = "0"
-        dataInputPosition = "bottom"
-        lightTheme = "light"
-        darkTheme = "dark"
-        dataLang = "en"
-        dataLoading = "lazy"
+        repo = "vivekvismayam/InSights_Utterances"
+        issueTerm = "pathname"
+        label = "InSights"
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
   [params.footer]
     enable = true
     custom = "- © 2025 vivekvismayam - </br><i>The content on this blog is for informational purposes only.I make no representations or warranties regarding the accuracy or completeness of any information provided.<br/> I am not liable for any losses, damages, or decisions made based on the content shared here. Please consult a professional before making any decisions based on this blog.</i>"
