@@ -11,9 +11,9 @@ relativeURLs = true
 theme = "DoIt"
 # Sitemap config
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "monthly"
   filename = "sitemap.xml"
-  priority = 0.5
+  priority = 1.0
 
 [params]
   # DoIt theme version
