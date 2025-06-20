@@ -1,18 +1,5 @@
-+++
-date = '2025-06-20T12:30:13+05:30'
-title = '10 “Good to Know” JavaScript Tips You Probably Aren’t Using⚡'
-slug='useful-js-tips'
-authors = ['Vivek']
-tags = ['Tips','Js']
-categories= ['IT','JavaScript']
-weight = 1
-featuredImage ='https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p18_header.png'
-featuredImagePreview ='https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p18_header.png'
-summary="Few JS Tips and examples"
-description="10 Lesser-Known But Super Useful JavaScript Tips "
-seriesNavigation=false
-toc=true
-+++
+# 10 “Good to Know” JavaScript Tips You Probably Aren’t Using⚡
+
 These are few JS tips and that i use and few informations that suprised me when i came across.— thought I'd share them with you all!
 ## 1.  Destructure with Defaults
 **🧠 What it does**: Allows you to provide fallbacks if properties are missing or null/undefined the object while extracting the values from objects.
