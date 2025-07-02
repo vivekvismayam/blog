@@ -1,18 +1,5 @@
-+++
-date = '2025-07-02T11:20:13+05:30'
-title = 'Setting Up A Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋'
-slug='telegram-media-downloader'
-authors = ['Vivek']
-tags = ['Tips','Js','linux','Telegram','Media','Downloader']
-categories= ['IT','Javascript','HomeLab']
-weight = 1
-featuredImage ='https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_header.png'
-featuredImagePreview ='https://raw.githubusercontent.com/vivekvismayam/blog-assets-1/refs/heads/main/Images/p20_header.png'
-summary="Building a telegram client to download media files to a server"
-description="Setting up a Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋"
-seriesNavigation=false
-toc=true
-+++
+# Setting Up A Telegram-Powered Media Downloader📲 for My Home Lab Using Node.js🔋
+
 # Have you thought of Turning Telegram into a Remote Media Pipeline for your Home Server??🚀
 ## 🔍 Background
 Managing media in a home server setup can be both fun and challenging—especially when you're trying to automate file ingestion into services like [Jellyfin](https://jellyfin.org/) or [Plex](https://www.plex.tv/media-server-downloads/). 
